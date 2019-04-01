@@ -10,6 +10,8 @@ $(document).ready(function () {
 
         $(".clock").html(time);
 
+        // $('.clock').html(curTime.format('hh:mm:ss')) Mike being funny
+
     }, 1000)
 
 });
