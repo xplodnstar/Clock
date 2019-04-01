@@ -1,0 +1,14 @@
+html {box-sizing: border-box}
+*,*::before,*::after{box-sizing: inherit}
+
+body {
+    background-color: thistle;
+}
+
+.clock {
+    color: blueviolet;
+    font-size: 100px;
+    font-family: fantasy;
+    text-align: center;
+    margin: 100px 0;
+}
